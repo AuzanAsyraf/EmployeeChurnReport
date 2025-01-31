@@ -10,8 +10,8 @@ Problem Statement:
 We are having issues with keeping employees so we would like a help to proactively find employees that are at risk of leaving the company.
 
 Approach:
--Select pilot program with new employees
--Build Auto ML model trained on previous data that can predict new employees leaving.
+1. Select pilot program with new employees
+2. Build Auto ML model trained on previous data that can predict new employees leaving.
 
 Deliverable:
 Report/Dashboard
